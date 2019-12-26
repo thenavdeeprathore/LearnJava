@@ -1,5 +1,5 @@
 /**
- * @@author : Navdeep
+ * @author : Navdeep
  * Hello World Program
  */
 public class Hello {
