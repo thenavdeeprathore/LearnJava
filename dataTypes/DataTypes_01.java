@@ -21,8 +21,6 @@ class DataTypes_01 {
         char ch = 'x';
         boolean b = true;
         
-        
-
         System.out.println("int: " + x);
         System.out.println("char: " + ch);
         System.out.println("boolean: " + b);
