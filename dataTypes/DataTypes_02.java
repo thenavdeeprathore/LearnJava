@@ -1,31 +1,25 @@
 /**
  * @author : Navdeep
  * DataTypes Program 02:
- * Print Default values of both Primitive and Non-primitive data types
+ * Declare and initialize Non-Primitive Data Types
  */
 public class DataTypes_02 {
 
-    int x;
-    char ch;
-    byte by;
-    short sh;
-    long l;
-    float f;
-    double d;
-    boolean b;
-    String s;
-
     public static void main(String[] args) {
-        DataTypes_02 T = new DataTypes_02();
+        dataType();
+    }
 
-        System.out.println("int: " + T.x);
-        System.out.println("char: " + T.ch);
-        System.out.println("byte: " + T.by);
-        System.out.println("short: " + T.sh);
-        System.out.println("long: " + T.l);
-        System.out.println("float: " + T.f);
-        System.out.println("double: " + T.d);
-        System.out.println("boolean: " + T.b);
-        System.out.println("String: " + T.s);
+    public static void dataType() {
+        String s = "AutoTechX";
+        int[] Array1_int = { 1, 2, 3 };
+        char[] Array2_char = { 'a', 'b', 'c' };
+        String[] Array3_String = { "Navdeep", "Singh", "Rathore" };
+        boolean[] Array4_boolean = { true, false };
+
+        System.out.println("String: " + s);
+        System.out.println("Array_int: " + Array1_int[0]);
+        System.out.println("Array_char: " + Array2_char[2]);
+        System.out.println("Array_String: " + Array3_String[1]);
+        System.out.println("Array_boolean: " + Array4_boolean[1]);
     }
 }
