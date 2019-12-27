@@ -34,7 +34,7 @@ class Var_02 {
     public static void main(String[] args) {
         System.out.println(Var_02.a);  //Refer IMPORTANT POINTS: e
         Var_02 obj = new Var_02();
-        System.out.println(obj.a);  //Refer IMPORTANT POINTS: f
+        // System.out.println(obj.a);  //This is also Valid but Refer IMPORTANT POINTS: f
 
         System.out.println(a);  //10
         System.out.println(b);  //0
