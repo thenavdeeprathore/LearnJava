@@ -14,4 +14,6 @@
 * [Instance Variable](variables/Var_01.java)
 * [Static Variable](variables/Var_02.java)
 * [Local Variable](variables/Var_03.java)
-### 4) OOPS {Object Oriented Programming}
+### 4) Variables
+* [Access Modifiers for class](accessModifiers/Modifier_Class.java)
+### 5) OOPS {Object Oriented Programming}
