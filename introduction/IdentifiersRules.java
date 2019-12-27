@@ -1,6 +1,7 @@
 /**
  * @author: Navdeep
- * ------- Java Identifiers Rules Notes:
+ * Rules for Java Identifiers NOTES:
+ * 
  * Rule 1: Only allowed characters for identifiers are all alphanumeric ([a to z],[A to Z],[0 to 9]) and '$' dollar sign and '_' underscore sign.
  * Rule 2: Identifiers should not start with digits([0-9]). For example “123geeks” is a not a valid java identifier.
  * Rule 3: Java identifiers are case-sensitive. (Example - number, Number, NUMBER)
@@ -8,7 +9,7 @@
  * Rule 5: Reserved Words can’t be used as an identifier. For example “int while = 20;” is an invalid statement as while is a reserved word. There are 53 reserved words in Java
  */
 
-public class IdentifiersRules {
+class IdentifiersRules {
 
 // Valid Java Identifiers
     int MyVariable;

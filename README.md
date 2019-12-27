@@ -1,5 +1,5 @@
 # LearnJava
-## Lists of **Java** Topics and *Programs*
+## Important **Java** Topics and *Programs* before learning Selenium Automation
 
 ### 1) Introduction
 * [Hello World](introduction/Hello.java)

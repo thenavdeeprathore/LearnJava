@@ -1,8 +1,9 @@
 /**
  * @author : Navdeep
- * Explain public static void main in Java Notes:
+ * Explain public static void main method in Java NOTES:
  */
-public class Main {
+
+class Main {
 
     // Refer this article below for complete information:
     // http://autotechx.blogspot.com/2018/03/explain-public-static-void-main-in-java.html

@@ -3,7 +3,8 @@
  * DataTypes Program 03:
  * Print Default values of both Primitive and Non-primitive data types
  */
-public class DataTypes_03 {
+
+class DataTypes_03 {
 
     int x;
     char ch;

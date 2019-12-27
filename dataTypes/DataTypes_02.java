@@ -3,7 +3,8 @@
  * DataTypes Program 02:
  * Declare and initialize Non-Primitive Data Types
  */
-public class DataTypes_02 {
+
+class DataTypes_02 {
 
     public static void main(String[] args) {
         dataType();

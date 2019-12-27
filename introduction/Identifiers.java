@@ -1,8 +1,10 @@
 /**
  * @author: Navdeep
- * ------- Java Identifiers Notes:
+ * Java Identifiers NOTES:
+ * 
  * In programming languages, identifiers are used for identification purpose.
  * In Java an identifier can be a Class name, Method name, Variable name or a Label.
+ * 
  * In the below Java code, we have 5 identifiers:
  * 1. Identifiers - Class name
  * 2. main - Method name

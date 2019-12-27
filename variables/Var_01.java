@@ -3,16 +3,19 @@
  * Variable Program 01: Instance Variables
  * Here we will discuss about one of the Variable type which is Instance Variables available in Java
  */
-public class Var_01 {
+
+class Var_01 {
 
     /*
-     * NOTES:
+     * IMPORTANT POINTS:
+     * 
      * Instance variables are non-static variables and are declared in a class outside any method, constructor or block
      * a) As instance variables are declared in a class, these variables are created when an object of the class is created and destroyed when the object is destroyed.
      * b) Unlike local variables, we may use access specifiers for instance variables. If we do not specify any access specifier then the default access specifier will be used.
      * c) Initialization of Instance Variable is not Mandatory. Its default value is 0
      * d) Instance Variable can be accessed only by creating objects.
      */
+    
     int x = 10;
     int y;
 
