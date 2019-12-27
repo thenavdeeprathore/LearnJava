@@ -1,7 +1,12 @@
 /**
  * @author : Navdeep
- * Variable Program 01: Instance Variables
- * Here we will discuss about one of the Variable type which is Instance Variables available in Java
+ * Variable Program 01: Types of Variables
+ * 
+ * There are 3 types of variables
+ * 1) Instance Variable
+ * 2) Static Variable
+ * 3) Local Variable
+ * Today we will discuss first type which is INSTANCE Variables in Java.
  */
 
 class Var_01 {
