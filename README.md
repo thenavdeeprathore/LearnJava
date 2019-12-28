@@ -29,6 +29,9 @@
 * [Method Overloading Case 4 - String StringBuffer StringBuilder classes](oops/methodOverloading/Overloading_05.java)
 * [Method Overloading Case 5 - null method](oops/methodOverloading/Overloading_06.java)
 * [Method Overloading Case 6 - String vs Object null method](oops/methodOverloading/Overloading_07.java)
+* [Method Overloading Case 7 - multiple arguments method](oops/methodOverloading/Overloading_08.java)
+* [Method Overloading Case 8 - var args method](oops/methodOverloading/Overloading_09.java)
+* [Method Overloading Case 9 - access modifiers](oops/methodOverloading/Overloading_10.java)
 #### Polymorphism - Method Overriding
 #### Abstraction
 #### Interface
