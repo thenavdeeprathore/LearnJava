@@ -25,6 +25,7 @@
 * [Method Overloading overview](oops/methodOverloading/Overloading_01.java)
 * [Method Overloading Case 1 - changing only return type](oops/methodOverloading/Overloading_02.java)
 * [Method Overloading Case 2 - java main method](oops/methodOverloading/Overloading_03.java)
+* [Method Overloading Case 3 - automatic type promotion](oops/methodOverloading/Overloading_04.java)
 #### Polymorphism - Method Overriding
 #### Abstraction
 #### Interface
