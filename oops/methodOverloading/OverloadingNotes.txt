@@ -1,0 +1,14 @@
+Polymorphism:
+-------------
+Poly means MANY
+morphism means FORMS
+
+Ex: 
+Water - Ice, Liquid, Gas
+
+Two types of Polymorphism:
+1) Compile time polymorphism (static polymorphism)
+- can be achieved through Method Overloading
+
+2) Run time polymorphism (dynamic polymorphism)
+- can be achieved through Method Overriding
