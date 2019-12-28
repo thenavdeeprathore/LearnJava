@@ -28,6 +28,7 @@
 * [Method Overloading Case 3 - automatic type promotion](oops/methodOverloading/Overloading_04.java)
 * [Method Overloading Case 4 - String StringBuffer StringBuilder classes](oops/methodOverloading/Overloading_05.java)
 * [Method Overloading Case 5 - null method](oops/methodOverloading/Overloading_06.java)
+* [Method Overloading Case 6 - String vs Object null method](oops/methodOverloading/Overloading_07.java)
 #### Polymorphism - Method Overriding
 #### Abstraction
 #### Interface
