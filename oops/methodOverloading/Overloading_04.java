@@ -1,6 +1,6 @@
 /**
  * @author : Navdeep
- * Method Overloading Case 4:
+ * Method Overloading Case 3:
  * Automatic promotion - One type is promoted to another implicitly if no matching data type is found.
  * byte --> short
  * short --> int
