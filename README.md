@@ -17,7 +17,9 @@
 ### 4) Access Modifiers
 * [Access Modifiers for class](accessModifiers/Modifier_Class.java)
 * [Access Modifiers for class variables](accessModifiers/Modifier_ClassVariables.java)
+* [Access Modifiers for local variables](accessModifiers/Modifier_LocalVariables.java)
 * [Access Modifiers for constructors](accessModifiers/Modifier_Constructors.java)
+* [Access Modifiers for methods](accessModifiers/Modifier_Methods.java)
 ### 5) OOPS {Object Oriented Programming}
 #### Class And Objects
 * [Class members](oops/classesAndObjects/ClassMembers.java)
