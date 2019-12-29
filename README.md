@@ -19,6 +19,7 @@
 * [Access Modifiers for class variables](accessModifiers/Modifier_ClassVariables.java)
 ### 5) OOPS {Object Oriented Programming}
 #### Class And Objects
+* [Class members](oops/classesAndObjects/ClassMembers.java)
 #### Inheritance (IS-A relationship)
 #### Polymorphism - Method Overloading
 * [Polymorphism overview](oops/methodOverloading/OverloadingNotes.txt)
