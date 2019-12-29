@@ -2,10 +2,10 @@
 ## Important **Java** Topics and *Programs* before learning Selenium Automation
 
 ### 1) Introduction
-* [Hello World](introduction/Hello.java)
+* [Hello World](introduction/HelloWorld.java)
 * [Java Identifiers](introduction/Identifiers.java)
 * [Rules for Java Identifiers](introduction/IdentifiersRules.java)
-* [Rules for public static void main method](introduction/Main.java)
+* [Explain public static void main method](introduction/Main.java)
 ### 2) Data Types
 * [Primitive Data Types](dataTypes/DataTypes_01.java)
 * [Non-primitive Data Types](dataTypes/DataTypes_02.java)

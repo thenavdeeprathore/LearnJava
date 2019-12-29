@@ -31,5 +31,10 @@ public class Operator_01 {
         mul(5, 4);
         div(70, 10);
         rem(55, 10);
+
+        System.out.println(10*10/5+3-1*4/2); 
+        // 10*2+3-1*2
+        // 20+3-2
+        // 21
     }
 }
