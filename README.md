@@ -26,6 +26,9 @@
 ### 6) OOPS {Object Oriented Programming}
 #### Class And Objects
 * [Class members](oops/classesAndObjects/ClassMembers.java)
+* [Class Objects Case Study 1](oops/classesAndObjects/ClassObjects_01.java)
+* [Class Objects Case Study 2](oops/classesAndObjects/ClassObjects_02.java)
+* [Class Objects Case Study 3](oops/classesAndObjects/ClassObjects_03.java)
 #### Inheritance (IS-A relationship)
 #### Polymorphism - Method Overloading
 * [Polymorphism overview](oops/methodOverloading/OverloadingNotes.txt)
