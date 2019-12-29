@@ -51,6 +51,9 @@
 * [this - pass as an argument in the constructor call](oops/thisKeyword/ThisKey_05.java)
 * [this - return the current class instance from the method](oops/thisKeyword/ThisKey_06.java)
 #### super keyword
+* [super - use of super with variables](oops/superKeyword/SuperKey_01.java)
+* [super - use of super with methods](oops/superKeyword/SuperKey_02.java)
+* [super - use of super with constructors](oops/superKeyword/SuperKey_03.java)
 #### Abstraction
 #### Interface
 #### Encapsulation 
