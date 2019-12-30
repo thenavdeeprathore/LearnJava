@@ -68,3 +68,4 @@
 * [Armstrong number](Basic-Programs/Armstrong.java)
 * [Palindrome number](Basic-Programs/Palindrome.java)
 * [Prime number](Basic-Programs/PrimeNumber.java)
+* [Power of N](Basic-Programs/PowerOfNumber.java)
