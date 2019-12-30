@@ -59,4 +59,5 @@
 #### Encapsulation
 #### Basic Programs
 * [Even Odd](Basic-Programs/EvenOdd.java)
-* [Find largest number](Basic-Programs/FindLargestNumber.java)
+* [Find Largest Number](Basic-Programs/FindLargestNumber.java)
+* [Leap Year](Basic-Programs/LeapYear.java)
