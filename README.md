@@ -63,6 +63,7 @@
 * [Smallest Number without using comparison operator](Basic-Programs/SmallestNumber.java)
 * [Leap Year](Basic-Programs/LeapYear.java)
 * [Swap Numbers](Basic-Programs/SwapNumber.java)
-* [Fibonacci series](Basic-Programs/Fibonacci.java)
 * [Factorial number](Basic-Programs/Factorial.java)
+* [Fibonacci series](Basic-Programs/Fibonacci.java)
 * [Armstrong number](Basic-Programs/Armstrong.java)
+* [Palindrome number](Basic-Programs/Palindrome.java)
