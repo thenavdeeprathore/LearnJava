@@ -67,3 +67,4 @@
 * [Fibonacci series](Basic-Programs/Fibonacci.java)
 * [Armstrong number](Basic-Programs/Armstrong.java)
 * [Palindrome number](Basic-Programs/Palindrome.java)
+* [Prime number](Basic-Programs/PrimeNumber.java)
