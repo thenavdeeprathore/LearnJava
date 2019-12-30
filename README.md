@@ -64,4 +64,5 @@
 * [Leap Year](Basic-Programs/LeapYear.java)
 * [Swap Numbers](Basic-Programs/SwapNumber.java)
 * [Fibonacci series](Basic-Programs/Fibonacci.java)
+* [Factorial number](Basic-Programs/Factorial.java)
 * [Armstrong number](Basic-Programs/Armstrong.java)
