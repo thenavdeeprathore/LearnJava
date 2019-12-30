@@ -59,6 +59,7 @@
 #### Encapsulation
 #### Basic Programs
 * [Even Odd](Basic-Programs/EvenOdd.java)
-* [Find Largest Number](Basic-Programs/FindLargestNumber.java)
+* [Largest Number](Basic-Programs/FindLargestNumber.java)
+* [Smallest Number without using comparison operator](Basic-Programs/SmallestNumber.java)
 * [Leap Year](Basic-Programs/LeapYear.java)
 * [Swap Numbers](Basic-Programs/SwapNumber.java)
