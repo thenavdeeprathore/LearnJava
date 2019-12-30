@@ -61,3 +61,4 @@
 * [Even Odd](Basic-Programs/EvenOdd.java)
 * [Find Largest Number](Basic-Programs/FindLargestNumber.java)
 * [Leap Year](Basic-Programs/LeapYear.java)
+* [Swap Numbers](Basic-Programs/SwapNumber.java)
